@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MusicalStructureApp</string>
+    <string name="playlist">Playlist</string>
+    <string name="playlist_button">Playlist Button</string>
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="previous">Previous</string>
+    <string name="fast_backward">Fast Backward</string>
+    <string name="play">Play</string>
+    <string name="fast_forward">Fast Forward</string>
+    <string name="next">Next</string>
+    <string name="song_index">songIndex</string>
+    <string name="quit">Are you sure to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="music_library">Music Library Playlist</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="home">Home</string>
+    <string name="no_songs">No Songs To Play</string>
+    <string name="songitemname">SongItemName</string>
+    <string name="library_name">I am gonna use google play music library to fetch the song and payyoumoney payment gateway to download official song</string>
+    <string name="app_name_message">Musical Structure App which would allow a user to play audio files</string>
+    <string name="playlist_name">This screen displays the list of music in the library</string>
+    <string name="shuffle_off">Shuffle is OFF</string>
+    <string name="shuffle_on">Shuffle is ON</string>
+    <string name="this_screen_shows_current_song_playing">This screen shows current song playing</string>
+    <string name="this_screen_shows_all_music_list_in_library">This screen shows all music list in library</string>
+</resources>
